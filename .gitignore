@@ -1,0 +1,22 @@
+# Build artifacts
+build/bin/
+frontend/dist/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Go
+*.exe
+*.test
+*.out
+
+# Archives
+*.medvault
+
+# IDE
+.idea/
+.vscode/
